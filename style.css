@@ -1,0 +1,1938 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.landing-page-design-2Ep {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL {
+  box-sizing: border-box;
+  padding: 5rem 12.7rem 10rem 13.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .group-40071-8yz {
+  margin-right: 40.4366rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .group-40071-8yz .group-40070-V3r {
+  margin-right: 1.6626rem;
+  width: 5.6008rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .group-40071-8yz .hero-travel-p68 {
+  margin-bottom: 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .group-40071-8yz .hero-travel-p68 .hero-travel-p68-sub-0 {
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .group-40071-8yz .hero-travel-p68 .hero-travel-p68-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .nav-text-2zp {
+  margin: 1.3rem 0rem 1.2rem 0rem;
+  height: calc(100% - 2.5rem);
+  display: flex;
+  column-gap: 4.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .nav-text-2zp .home-8HA {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .nav-text-2zp .packages-F6t {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .nav-text-2zp .testimonial-ADr {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .nav-text-2zp .blog-ghz {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-w5ug-d1e .nav-text-2zp .contact-2G4 {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr {
+  margin: 0rem 0.8rem 10rem 0rem;
+  box-sizing: border-box;
+  padding: 10.6rem 18.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Rectangle\ 4.png');
+  border-radius: 1.6rem;
+  background: linear-gradient(180deg, rgba(19, 19, 24, 0.8000000119) -0%, rgba(19, 19, 24, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .group-3-NUL {
+  margin: 0rem 7.65rem 4.8rem 7.65rem;
+  width: calc(100% - 15.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .group-3-NUL .explore-your-travel-Vor {
+  margin-bottom: 2.3rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .group-3-NUL .dolor-sit-amet-consectetur-nullam-suspendisse-vitae-ultricies-dolor-adipiscing-in-et-odio-enim-ac-quis-sapien-urna-eu-phasellus-Vat {
+  max-width: 64.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak {
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 8.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-4-Uxc {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.5rem 1.6rem;
+  width: 17.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-5-WPW {
+  box-sizing: border-box;
+  padding: 1.6rem 1.95rem 1.5rem 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-5-WPW .when-15N {
+  margin-right: 7.85rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-5-WPW .frame-WXv {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-5-R96 {
+  box-sizing: border-box;
+  padding: 1.6rem 1.95rem 1.5rem 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-5-R96 .select-type-9qn {
+  margin-right: 3.95rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-5-R96 .frame-HBJ {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-8-zbW {
+  box-sizing: border-box;
+  padding: 1.4rem 3.4rem 1.4rem 3.5rem;
+  width: 17.4rem;
+  height: 100%;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-8-zbW .group-7-K7z {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.3rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-8-zbW .group-7-K7z .frame-qs2 {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 1.8001rem;
+  height: 1.8001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-8-zbW .group-7-K7z .find-now-jhW {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 55rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat {
+  margin-right: 7.3rem;
+  width: 55.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-15-jjS {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-15-jjS .our-popular-tours-GjN {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-15-jjS .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-mg8 {
+  margin-bottom: 2.4rem;
+  max-width: 55.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-15-jjS .group-14-nr8 {
+  margin-bottom: 2.4rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-15-jjS .group-14-nr8 .tempus-euismod-lacus-mauris-dignissim-quis-in-ultrices-magna-nullam-odio-neque-diam-sociis-erat-at--jWU {
+  max-width: 52.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-15-jjS .group-14-nr8 .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-2Eg {
+  max-width: 48.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-15-jjS .group-14-nr8 .accumsan-eget-et-turpis-praesent-lorem-egestas-enim-elit-bibendum-risus-at-in-itC {
+  max-width: 50.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-15-jjS .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-id-bibendum-nunc-senectus-semper-tincidunt-D4G {
+  max-width: 53rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .auto-group-2nvi-oat .group-8-TDW {
+  width: 17.4rem;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-4xb6-tip .rectangle-4-g6G {
+  width: 54rem;
+  height: 55rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-CaQ {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-CaQ .choose-your-destination-ioe {
+  margin: 0rem 0.1rem 2.3rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-CaQ .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-cPE {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-srcq-VC8 {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-srcq-VC8 .auto-group-ch8p-QZz {
+  margin-right: 2.4rem;
+  width: 57.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Rectangle\ 5.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-srcq-VC8 .auto-group-yqre-QCc {
+  width: 57.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Rectangle\ 8.png');
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-yy1e-fuE {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  height: 28.6rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-yy1e-fuE .auto-group-lqmr-nU4 {
+  width: 37.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Rectangle\ 6.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-yy1e-fuE .auto-group-pkww-dzU {
+  width: 47.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Rectangle\ 7.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-yy1e-fuE .auto-group-hxba-Jqi {
+  width: 27.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Rectangle\ 9.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-hqcg-jg8 {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-hqcg-jg8 .auto-group-hhkg-qDN {
+  margin-right: 2.4rem;
+  width: 47.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Rectangle\ 11.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-hqcg-jg8 .auto-group-qfsc-7At {
+  width: 67.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Rectangle\ 10.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-yyn {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-yyn .why-choose-us-tqr {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-yyn .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-cmr {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 28.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-23-9fJ {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: 57.3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(251, 181, 99, 0.200000003);
+  background-color: rgba(251, 181, 99, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-23-9fJ .group-22-sLQ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-23-9fJ .group-22-sLQ .hotel-1-pmS {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-23-9fJ .group-22-sLQ .group-21-Ky6 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-23-9fJ .group-22-sLQ .group-21-Ky6 .handpicked-hotels-ULC {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-23-9fJ .group-22-sLQ .group-21-Ky6 .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-Pxx {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-24-Npt {
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: 57.3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(41, 206, 246, 0.200000003);
+  background-color: rgba(41, 206, 246, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-24-Npt .group-22-UN8 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-24-Npt .group-22-UN8 .group-27-RoA {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-24-Npt .group-22-UN8 .group-21-NTW {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-24-Npt .group-22-UN8 .group-21-NTW .world-class-service-jYx {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-cnmi-TXa .group-24-Npt .group-22-UN8 .group-21-NTW .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-4r8 {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-25-yEL {
+  margin: 0rem 30.7rem 10rem 29.8rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: calc(100% - 60.5rem);
+  height: 28.4rem;
+  border: solid 0.1rem rgba(233, 68, 68, 0.200000003);
+  background-color: rgba(233, 68, 68, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-25-yEL .group-22-fcx {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-25-yEL .group-22-fcx .group-26-d3z {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-25-yEL .group-22-fcx .group-21-ZiL {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-25-yEL .group-22-fcx .group-21-ZiL .best-price-guarantee-von {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-25-yEL .group-22-fcx .group-21-ZiL .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-Toi {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-HGx {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-HGx .deals-discounts-NJQ {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-18-HGx .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-U6Y {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 53.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Group\ 39.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ {
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-32-TMn {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-32-TMn .frame-n9A {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-32-TMn .day-6-night-sRW {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-33-aap {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-33-aap .frame-v8t {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-33-aap .max-10-qWk {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-34-Nma {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-34-Nma .frame-X8g {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-35-KmN .group-34-Nma .malaysia-ej6 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-36-Byv {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-36-Byv .tour-to-satorini-Lbv {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-36-Byv .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-s64 {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-36-Byv .price-1300-1500-u2k {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-36-Byv .group-8-Eap {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-36-Byv .group-8-Eap .group-7-C1r {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-39-YMJ .group-38-qbJ .group-37-B9N .group-36-Byv .group-8-Eap .group-7-C1r .group-31-kp4 {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 5.6rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Group\ 40.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn {
+  margin-right: 47.9rem;
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 57.9rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-32-QvY {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-32-QvY .frame-v8C {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-32-QvY .day-6-night-qW4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-33-MjJ {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-33-MjJ .frame-Hcx {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-33-MjJ .max-10-DFi {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-34-whW {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-34-whW .frame-5Hv {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-35-HL8 .group-34-whW .malaysia-ZTz {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-36-u24 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-36-u24 .tour-to-satorini-3e4 {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-36-u24 .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-aP6 {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-36-u24 .price-1300-1500-TBz {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-36-u24 .group-8-anQ {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-36-u24 .group-8-anQ .group-7-jfJ {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-40-8pc .group-38-3Rn .group-37-wn4 .group-36-u24 .group-8-anQ .group-7-jfJ .group-31-u3z {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ {
+  margin: 0rem 0.8rem 4.8rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 53.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('image/Group\ 39.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC {
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-32-xZz {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-32-xZz .frame-VZv {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-32-xZz .day-6-night-2Jx {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-33-kEx {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-33-kEx .frame-rHz {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-33-kEx .max-10-A3n {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-34-6i8 {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-34-6i8 .frame-2rg {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-35-Rpx .group-34-6i8 .malaysia-Mtx {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-36-hhv {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-36-hhv .tour-to-satorini-FzL {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-36-hhv .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-Pqe {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-36-hhv .price-1300-1500-5Cg {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-36-hhv .group-8-BWc {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-36-hhv .group-8-BWc .group-7-iWY {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-41-dPJ .group-38-vtC .group-37-GSG .group-36-hhv .group-8-BWc .group-7-iWY .group-31-gyA {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-8-6GC {
+  margin: 0rem 48.8rem 10rem 48rem;
+  width: calc(100% - 96.8rem);
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-8-6GC .group-7-1e4 {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .group-8-6GC .group-7-1e4 .group-42-BYY {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f12020;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 42.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-43-P8p {
+  margin: 0rem 2.8rem 0rem 0rem;
+  width: 53.2rem;
+  height: calc(100% - 0rem);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-43-P8p .a-simple-perfect-place-to-get-lost-UAG {
+  margin-bottom: 2.4rem;
+  max-width: 44.1rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-43-P8p .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-NWY {
+  margin-bottom: 2.4rem;
+  max-width: 52.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-43-P8p .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-rwW {
+  margin-bottom: 1.6rem;
+  max-width: 50.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.625;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-43-P8p .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-xUk {
+  margin-bottom: 3.2rem;
+  max-width: 50.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.625;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-43-P8p .group-42-4Xn {
+  width: 17.4rem;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx {
+  margin-right: 0rem;
+  width: 61rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .rectangle-10-sk8 {
+  width: 61rem;
+  height: 42.4rem;
+  position: absolute;
+  left: 0;
+  top: 0rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .rectangle-11-Z7A {
+  width: 61rem;
+  height: 42.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(0deg, #131318 -31.96%, rgba(19, 19, 24, 0) 100%);
+  border-radius: 1.6rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-39464-4Jp {
+  width: 56.2rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 39.5rem;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-39464-4Jp .group-8-Prt {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-39464-4Jp .group-8-Prt .group-40061-AMr {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-39464-4Jp .group-8-Prt .group-40061-AMr .group-7-KkY {
+  margin-right: 47.5rem;
+  width: 8.7rem;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-39464-4Jp .group-8-Prt .group-40061-AMr .group-7-KkY .rectangle-5-gLC {
+  width: 100%;
+  height: 0.4rem;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-40062-mMe {
+  width: 6.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 35.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-40062-mMe .group-39472-W4L {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-40062-mMe .item-000-STn {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f3f3f3;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-40063-97J {
+  box-sizing: border-box;
+  padding-right: 1.125rem;
+  width: 10.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 48.2rem;
+  top: 35.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-40063-97J .group-39481-dHN {
+  margin-right: 2.725rem;
+  width: 6.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .group-40063-97J .frame-ZRv {
+  width: 0.15rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-nwo2-4cL .group-40089-YSx .watch-our-mountain-in-bangladesh-JeQ {
+  width: 27.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 16.75rem;
+  top: 17.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx {
+  margin: 0rem 0.752rem 0rem 0rem;
+  width: calc(100% - 0.7517rem);
+  height: 42.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 4rem 4.1rem 4rem 4rem;
+  width: 47.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #ff5400;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .group-40066-Det {
+  margin: 0rem 5.6rem 2.4rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .group-40066-Det .newsletter-kui {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .group-40066-Det .get-your-daily-dose-of-travel-news-tips-sign-up-today-5BJ {
+  max-width: 33.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .line-1-MPi {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(19, 19, 24, 0.1000000015);
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .group-10-J44 {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .group-10-J44 .group-5-r5a {
+  box-sizing: border-box;
+  padding: 1.6rem 2rem 1.5rem 2rem;
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.3000000119);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .group-40067-Wfv {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .group-40067-Wfv .group-5-UMr {
+  box-sizing: border-box;
+  padding: 1.6rem 2rem 1.5rem 2rem;
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.3000000119);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  border-radius: 0.8rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .group-40093-7br .group-42-x28 {
+  width: 100%;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .auto-group-c2bw-zDi {
+  width: 67.2483rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .auto-group-c2bw-zDi .rectangle-8-uLg {
+  width: 67.2rem;
+  height: 42.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .auto-group-c2bw-zDi .group-40069-ENx {
+  box-sizing: border-box;
+  padding: 5.626rem 4.466rem 5.626rem 5.682rem;
+  width: 34.5483rem;
+  height: 22.1864rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 20rem;
+  background-color: #ff5400;
+  border-radius: 1.6rem;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .auto-group-c2bw-zDi .group-40069-ENx .group-40068-Y8k {
+  width: 100%;
+  height: 5.1862rem;
+  position: relative;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .auto-group-c2bw-zDi .group-40069-ENx .group-40068-Y8k .travelcom-6AG {
+  width: 11.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 4.8557rem;
+  top: 0;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-design-2Ep .auto-group-axqc-SpL .auto-group-2azj-PQx .auto-group-c2bw-zDi .group-40069-ENx .group-40068-Y8k .save-up-to-70-non {
+  width: 24.4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 0;
+  top: 1.0862rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv {
+  box-sizing: border-box;
+  padding: 11rem 6rem 10.9rem 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .group-40072-ke8 {
+  margin: 0rem 54.733rem 1.4rem 54rem;
+  width: calc(100% - 108.7327rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .group-40072-ke8 .group-40070-Fat {
+  margin-right: 1.6rem;
+  width: 4.6673rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .group-40072-ke8 .hero-travel-NfW {
+  margin-top: 0rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2549999952;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .group-40072-ke8 .hero-travel-NfW .hero-travel-NfW-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .group-40072-ke8 .hero-travel-NfW .hero-travel-NfW-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .lorem-ipsum-dolor-sit-amet-consectetur-nulla-sit-viverra-morbi-vitae-blandit-orci-potenti-vulputate-leo-erat-maecenas-vitae-elementum-ultricies-nullam-zKW {
+  margin: 0rem 0.1rem 3.2rem 0rem;
+  max-width: 75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .auto-group-ffmn-Qe8 {
+  margin-bottom: 5rem;
+  width: 132rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .line-2-uqn {
+  margin: 0rem 22.4rem 4.9rem 22.4rem;
+  width: calc(100% - 44.8rem);
+  height: 0.1rem;
+  background-color: rgba(19, 19, 24, 0.1000000015);
+  flex-shrink: 0;
+}
+.landing-page-design-2Ep .auto-group-fnon-3Dv .all-rights-reserved-2fW {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #131318;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .nav-text-2zp {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10px;
+  }
+}
+
+/* Main Content Styles */
+
+.group-13-khr {
+  padding: 20px;
+}
+
+/* Explore Your Travel Styles */
+
+.group-3-NUL {
+  text-align: center;
+}
+
+/* Choose Your Destination Styles */
+
+.auto-group-srcq-VC8,
+.auto-group-yy1e-fuE,
+.auto-group-hqcg-jg8 {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+.icon{
+ 
+  display: flex;
+}
+
+@media only screen and (max-width: 600px) {
+  .group-14-nr8 {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+  }
+}
+
+/* Why Choose Us Styles */
+
+.group-25-yEL,
+.group-39-YMJ {
+  text-align: center;
+}
+
+/* Deals & Discounts Styles */
+
+.group-41-dPJ,
+.group-8-6GC {
+  text-align: center;
+}
+
+/* Tour Packages Styles */
+
+.group-38-qbJ,
+.group-38-3Rn,
+.group-38-vtC {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.group-38-qbJ img,
+.group-38-3Rn img,
+.group-38-vtC img {
+  width: 100%;
+}
+
+.group-38-qbJ p,
+.group-38-3Rn p,
+.group-38-vtC p {
+  margin: 10px 0;
+}
+
+/* Footer Styles */
+
+.group-40072-ke8,
+.auto-group-fnon-3Dv {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Mobile Footer Styles */
+
+@media only screen and (max-width: 600px) {
+  .group-40072-ke8 img,
+  .auto-group-fnon-3Dv img {
+    width: 50%;
+  }
+}
