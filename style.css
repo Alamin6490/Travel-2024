@@ -140,20 +140,27 @@ body {
   padding: 10.6rem 18.5rem;
   width: 117rem;
   height: 50rem;
-  background-size: 100% 100%;
+   
+
+  background-size:   100%;
   background-repeat: no-repeat;
   background-position: center;
  
     border-radius: 1.6rem;
-  background: linear-gradient(180deg, rgba(19, 19, 24, 0.8000000119) -0%, rgba(19, 19, 24, 0.8000000119) 100%);
+     
   flex-shrink: 0;
 }
 .landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL {
-  width: 100%;
-  height: 100%;
+  width:  100%;
+  height:  100%;
+   
   align-items: center;
-   display: flex;
+  display: flex;
    flex-direction: column;
+  background-image: url('image/group\ 13.png');
+  background-position: center;
+    background-size: cover;
+
   border-radius: 0.8rem;
  
   border-radius: 1.6rem;
@@ -253,8 +260,7 @@ body {
   height: 100%;
   display: flex;
   align-items: center;
-   
-  background-color: #ffffff;
+ background-color: #ffffff;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
@@ -267,7 +273,9 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+   
 }
+ 
 .landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-5-R96 .frame-HBJ {
   margin-bottom: 0.1rem;
   width: 1.5rem;
@@ -284,6 +292,9 @@ body {
   background-color: #ff5400;
   border-radius: 0.8rem;
   flex-shrink: 0;
+  
+  
+
 }
 .landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-8-zbW .group-7-K7z {
   box-sizing: border-box;
@@ -301,18 +312,9 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.group-13-khr{
-  body {
-    /* Set the background image */
-    background-image: url('image/group\ 13.png');
+ 
   
-    justify-content: center;
-    background-repeat: no-repeat;  
-    background-size: cover;  
-    background-position: center center;  
-  }
-  
-}
+ 
 .landing-page-design-2Ep .auto-group-axqc-SpL .group-13-khr .group-12-DrL .frame-1-Zak .group-8-zbW .group-7-K7z .find-now-jhW {
   text-align: center;
   font-size: 1.6rem;
